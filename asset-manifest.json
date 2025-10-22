@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jogo-Corredor/static/css/main.eed080a1.css",
+    "main.js": "/Jogo-Corredor/static/js/main.f0b80ed9.js",
+    "static/js/453.2d445050.chunk.js": "/Jogo-Corredor/static/js/453.2d445050.chunk.js",
+    "index.html": "/Jogo-Corredor/index.html",
+    "main.eed080a1.css.map": "/Jogo-Corredor/static/css/main.eed080a1.css.map",
+    "main.f0b80ed9.js.map": "/Jogo-Corredor/static/js/main.f0b80ed9.js.map",
+    "453.2d445050.chunk.js.map": "/Jogo-Corredor/static/js/453.2d445050.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eed080a1.css",
+    "static/js/main.f0b80ed9.js"
+  ]
+}
